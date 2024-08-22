@@ -5,9 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif">
 
 
-- 🔭 I’m currently working on **...**
-
-- 🌱 I’m currently learning **...**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **everything I will try to solve it**
 
