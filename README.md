@@ -38,6 +38,10 @@
       <td align="center" width="16%">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="50px;" alt="PostgreSQL"/>
         <br>PostgreSQL
+      </td>             
+      <td align="center" width="16%">
+        <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" width="50px;" alt="Visual Studio Code"/>
+        <br>Visual Studio Code
       </td>
       <td align="center" width="16%">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50px;" alt="CSS"/>
@@ -46,10 +50,6 @@
       <td align="center" width="16%">
         <img src="https://user-images.githubusercontent.com/25181517/192106593-610ee31c-995e-4f24-b8e1-0f18eead6fae.png" width="50px;" alt="MATLAB"/>
         <br>MATLAB
-      </td>
-      <td align="center" width="16%">
-        <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" width="50px;" alt="Visual Studio Code"/>
-        <br>Visual Studio Code
       </td>
       <td align="center" width="16%">
         <img src="https://user-images.githubusercontent.com/25181517/192108892-6e9b5cdf-4e35-4a70-ad9a-801a93a07c1c.png" width="50px;" alt="Eclipse"/>
