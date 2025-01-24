@@ -31,7 +31,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50px;" alt="C++"/>
         <br>C++
       </td>
-    </tr>
+    </tr>    
     <tr>
       <td align="center" width="16%">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="50px;" alt="PostgreSQL"/>
@@ -41,8 +41,6 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50px;" alt="CSS"/>
         <br>CSS
       </td>
-    </tr>
-    <tr>
       <td align="center" width="16%">
         <img src="https://user-images.githubusercontent.com/25181517/192106593-610ee31c-995e-4f24-b8e1-0f18eead6fae.png" width="50px;" alt="MATLAB"/>
         <br>MATLAB
@@ -59,6 +57,8 @@
         <img src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" width="50px;" alt="Spring Boot"/>
         <br>Spring Boot
       </td>
+    </tr>
+    <tr>     
     </tr>
     <tr>
       <td align="center" width="16%">
