@@ -81,10 +81,6 @@ I’m Informasjonsteknologi Student at the Høgskulen på Vestlandet (HVL).
         <br>Docker
       </td>
       <td align="center" width="16%">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50px;" alt="git"/>
-        <br>Git
-      </td>
-      <td align="center" width="16%">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50px;" alt="aws"/>
         <br>AWS
       </td>
