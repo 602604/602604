@@ -3,6 +3,7 @@
 <h1 align="center">Hi 👋, I'm Alina</h1>
 <h3 align="center">I’m Informasjonsteknologi Student at the Høgskulen på Vestlandet (HVL).</h3>
 <!--<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif">-->
+I’m Informasjonsteknologi Student at the Høgskulen på Vestlandet (HVL).
 
 <table>
   <tbody>
@@ -58,8 +59,6 @@
         <br>Spring Boot
       </td>
     </tr>
-    <tr>     
-    </tr>
     <tr>
       <td align="center" width="16%">
         <img src="https://user-images.githubusercontent.com/25181517/117207242-07d5a700-adf4-11eb-975e-be04e62b984b.png" width="50px;" alt="Maven"/>
@@ -73,32 +72,26 @@
         <img src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" width="50px;" alt="IntelliJ"/>
         <br>IntelliJ
       </td>
+      <td align="center" width="16%">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="50px;" alt="android"/>
+        <br>Android
+      </td>
+      <td align="center" width="16%">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50px;" alt="typescript"/>
+        <br>Typescript
+      </td>
+      <td align="center" width="16%">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="50px;" alt="docker"/>
+        <br>Docker
+      </td>
+      <td align="center" width="16%">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50px;" alt="git"/>
+        <br>Git
+      </td>
+      <td align="center" width="16%">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50px;" alt="aws"/>
+        <br>AWS
+      </td>
     </tr>
   </tbody>
 </table>
-
-
-
-
-
-
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
-
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-     
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
-
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-    
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
-    
-</p>
