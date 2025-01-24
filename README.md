@@ -38,24 +38,8 @@
         <br>PostgreSQL
       </td>
       <td align="center" width="16%">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg" width="50px;" alt="SQLite"/>
-        <br>SQLite
-      </td>
-      <td align="center" width="16%">
-        <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/23_Photoshop_Adobe_logo_logos-512.png" width="50px;" alt="Adobe Photoshop"/>
-        <br>Adobe Photoshop
-      </td>
-      <td align="center" width="16%">
-        <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/8_Premier_Pro_Adobe_logo_logos-512.png" width="50px;" alt="Adobe Premiere Pro"/>
-        <br>Adobe Premiere Pro
-      </td>
-      <td align="center" width="16%">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50px;" alt="CSS"/>
         <br>CSS
-      </td>
-      <td align="center" width="16%">
-        <img src="https://raw.githubusercontent.com/pallets/jinja/3fd91e4d11bdd131d8c12805177dbe74d85e7b82/artwork/jinjalogo.svg" width="50px;" alt="Jinja"/>
-        <br>Jinja
       </td>
     </tr>
     <tr>
@@ -70,14 +54,6 @@
       <td align="center" width="16%">
         <img src="https://user-images.githubusercontent.com/25181517/192108892-6e9b5cdf-4e35-4a70-ad9a-801a93a07c1c.png" width="50px;" alt="Eclipse"/>
         <br>Eclipse
-      </td>
-      <td align="center" width="16%">
-        <img src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png" width="50px;" alt="Flask"/>
-        <br>Flask
-      </td>
-      <td align="center" width="16%">
-        <img src="https://user-images.githubusercontent.com/25181517/183911544-95ad6ba7-09bf-4040-ac44-0adafedb9616.png" width="50px;" alt="Azure"/>
-        <br>Azure
       </td>
       <td align="center" width="16%">
         <img src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" width="50px;" alt="Spring Boot"/>
@@ -96,14 +72,6 @@
       <td align="center" width="16%">
         <img src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" width="50px;" alt="IntelliJ"/>
         <br>IntelliJ
-      </td>
-      <td align="center" width="16%">
-        <img src="https://logowik.com/content/uploads/images/kaggle4255.logowik.com.webp" width="50px;" alt="Kaggle"/>
-        <br>Kaggle
-      </td>
-      <td colspan="2" align="center">
-        <img src="https://developer.microsoft.com/_devcom/images/logo-ms-social.png" width="100px;" height="50px;" alt="Microsoft Office 365"/>
-        <br>Microsoft Office 365
       </td>
     </tr>
   </tbody>
