@@ -73,10 +73,6 @@ I’m Informasjonsteknologi Student at the Høgskulen på Vestlandet (HVL).
         <br>IntelliJ
       </td>
       <td align="center" width="16%">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="50px;" alt="android"/>
-        <br>Android
-      </td>
-      <td align="center" width="16%">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50px;" alt="typescript"/>
         <br>Typescript
       </td>
