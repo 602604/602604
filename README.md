@@ -1,7 +1,7 @@
 <!--[![MasterHead](https://i.pinimg.com/originals/16/69/e5/1669e57761ccc67fa5e31a09a54764d0.gif)]()-->
 
 <h1 align="center">Hi 👋, I'm Alina</h1>
-<h3 align="center">Informasjonsteknologi Student.</h3>
+
 <!--<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif">-->
 
          
